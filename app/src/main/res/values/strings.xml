@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Pdm</string>
+    <string name="insira_um_valor_em_celsius_para_calcular">Insira um valor em Celsius para Calcular.</string>
+    <string name="calcular">CALCULAR</string>
 </resources>

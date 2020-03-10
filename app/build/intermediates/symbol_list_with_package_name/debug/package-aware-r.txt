@@ -741,7 +741,9 @@ id barrier
 id beginning
 id blocking
 id bottom
+id btn_calcular
 id btn_novaTela
+id btn_voltar
 id buttonPanel
 id center_vertical
 id chains
@@ -760,6 +762,7 @@ id dimensions
 id direct
 id disableHome
 id edit_query
+id edt_number
 id end
 id expand_activities_button
 id expanded_menu
@@ -852,6 +855,8 @@ id titleDividerNoCustom
 id title_template
 id top
 id topPanel
+id tv_resultado
+id txt_cabecalho
 id unchecked
 id uniform
 id up
@@ -942,6 +947,8 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
+string calcular
+string insira_um_valor_em_celsius_para_calcular
 string search_menu_title
 string status_bar_notification_info_overflow
 style AlertDialog_AppCompat
