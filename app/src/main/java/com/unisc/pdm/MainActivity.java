@@ -2,8 +2,10 @@ package com.unisc.pdm;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -49,4 +51,10 @@ public class MainActivity extends AppCompatActivity {
         super.onDestroy();
         Log.d("log", "Evento OnDestroy");
     }
+
+    public void btn_novaTela(View view){
+        Intent intent = new Intent(this, Aula1Activity.class);
+        startActivity(intent);
+    }
+
 }

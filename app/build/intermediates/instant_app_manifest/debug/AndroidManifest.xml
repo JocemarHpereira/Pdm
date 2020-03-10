@@ -19,6 +19,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.unisc.pdm.Aula1Activity" />
         <activity android:name="com.unisc.pdm.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
